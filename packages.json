@@ -1,0 +1,14 @@
+[
+    {
+        "package": "DOORMAT",
+        "url": "https://github.com/IFPRI/DOORMAT"
+    },
+    {
+        "package": "reportIMPACT",
+        "url": "https://github.com/IFPRI/reportIMPACT"
+    },
+    {
+        "package": "ARIA",
+        "url": "https://github.com/IFPRI/ARIA"
+    }
+]
