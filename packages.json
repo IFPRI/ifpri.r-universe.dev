@@ -1,4 +1,8 @@
 [
+	{
+        "package": "magclass",
+        "url": "https://github.com/pik-piam/magclass"
+    },
     {
         "package": "DOORMAT",
         "url": "https://github.com/IFPRI/DOORMAT"
