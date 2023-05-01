@@ -1,5 +1,9 @@
 [
 	{
+        "package": "devtools",
+        "url": "https://github.com/r-lib/devtools"
+    },
+	{
         "package": "magclass",
         "url": "https://github.com/pik-piam/magclass"
     },
