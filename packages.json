@@ -4,6 +4,10 @@
         "url": "https://github.com/r-lib/devtools"
     },
 	{
+        "package": "KIRAN",
+        "url": "https://github.com/IFPRI/KIRAN"
+    },
+	{
         "package": "magclass",
         "url": "https://github.com/pik-piam/magclass"
     },
