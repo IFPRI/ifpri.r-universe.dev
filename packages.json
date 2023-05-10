@@ -22,5 +22,9 @@
 	{
         "package": "ARIA",
         "url": "https://github.com/IFPRI/ARIA"
+    },
+	{
+        "package": "STATEROOM",
+        "url": "https://github.com/IFPRI/STATEROOM"
     }
 ]
