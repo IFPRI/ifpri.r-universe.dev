@@ -26,5 +26,9 @@
 	{
         "package": "STATEROOM",
         "url": "https://github.com/IFPRI/STATEROOM"
+    },
+	{
+        "package": "COLUMNIST",
+        "url": "https://github.com/IFPRI/COLUMNIST"
     }
 ]
