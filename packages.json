@@ -35,4 +35,8 @@
         "package": "GTR",
         "url": "https://github.com/IFPRI/GTR"
     }
+		{
+        "package": "GFSir",
+        "url": "https://github.com/IFPRI/GFSir"
+    }
 ]
