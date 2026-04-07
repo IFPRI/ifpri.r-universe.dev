@@ -42,5 +42,9 @@
 		{
         "package": "EFFORT",
         "url": "https://github.com/IFPRI/EFFORT"
+    },
+		{
+        "package": "luh2impact",
+        "url": "https://github.com/IFPRI/luh2impact"
     }
 ]
